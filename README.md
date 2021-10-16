@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teo</h1>
-<h3 align="center">A crazy developer from Italy</h3>
+<h3 align="center">A crazy developer from Italy <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/40px-Flag_of_Italy.svg.png"/></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thet3o&label=Profile%20views&color=0e75b6&style=flat" alt="thet3o" /> </p>
 
