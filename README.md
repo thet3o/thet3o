@@ -4,15 +4,15 @@
 
 - 📫 How to reach me **thet3o@yahoo.com**
 
-<h3 align="left">Skills</h3>
+<h3 align="left">Skills:</h3>
 <p align="left">
-<a href="https://python.org/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" width="40" /></a>
-<a href="https://flutter.dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="30" width="40" /></a>
+<a href="https://python.org/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" width="40" /></a>
+<a href="https://flutter.dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="40" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40" width="50" /></a>
 <a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgresql" height="40" width="50" /></a>
-<a href="https://www.docker.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="80" width="50" /></a>
-<a href="https://www.unity.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" height="80" width="50" /></a>
-<a href="https://www.arduino.cc/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" height="80" width="50" /></a>
+<a href="https://www.docker.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40" width="50" /></a>
+<a href="https://www.unity.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" height="40" width="50" /></a>
+<a href="https://www.arduino.cc/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
