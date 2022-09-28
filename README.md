@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://github.com/thet3o/thet3o/blob/a3b4d39a66bf482d61ef93d59bb30bf71258df95/github-profile-header.png"> </div>
+![Header](./github-header-image.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thet3o&label=Profile%20views&color=0e75b6&style=flat" alt="thet3o" /> </p>
 
