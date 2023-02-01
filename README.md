@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thet3o&label=Profile%20views&color=0e75b6&style=flat" alt="thet3o" /> </p>
 
-- 📫 How to reach me **thet3o@yahoo.com**
+- 📫 How to reach me **vacalebrimatteo@gmail.com**
 
 <h3 align="left">Skills:</h3>
 <p align="left">
