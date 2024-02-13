@@ -11,8 +11,7 @@
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40" width="50" /></a>
 <a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgresql" height="40" width="50" /></a>
 <a href="https://www.docker.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40" width="50" /></a>
-<a href="https://www.unity.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" height="40" width="50" /></a>
-<a href="https://www.arduino.cc/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" height="40" width="50" /></a>
+<a href="https://aws.amazon.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" height="40" width="50"/></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
