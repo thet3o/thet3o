@@ -13,9 +13,3 @@
 <a href="https://www.docker.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50" width="50" /></a>
 <a href="https://aws.amazon.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" height="50" width="45"/></a>
 </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/thet3o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="thet3o" height="30" width="40" /></a>
-<a href="https://instagram.com/the_t3o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_t3o" height="30" width="40" /></a>
-</p>
